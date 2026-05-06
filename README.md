@@ -16,3 +16,10 @@
 مقداری تغییر در کد ها انجام شده که به شرح زیر است:
 - مشکل حجم زیاد مخزن بعد از استفاده 
 - حذف تاریخچه کل  دانلود ها از کامیت ها با اکشن cleaner
+---
+
+## فایل های دانلود شده در گیتهاب شما :
+
+1. [VSCodiumUserSetup-x64-1.116.02821](https://github.com/hasan-ahani/internet-meli/tree/main/downloads/VSCodiumUserSetup-x64-1.116.02821)
+
+---
